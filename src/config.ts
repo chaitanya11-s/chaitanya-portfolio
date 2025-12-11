@@ -2,7 +2,7 @@ export const config = {
     developer: {
         name: "Chaitanya",
         fullName: "Chaitanya",
-        title: "Aspiring Technical Program Manager",
+        title: "Aspiring Technical Product Manager",
         description: "Computer Science student at DTU bridging technical depth with product thinking. I translate user needs into data-driven product solutions that deliver business value."
     },
     social: {
