@@ -369,3 +369,27 @@ h2.landing-info-h2 {
   opacity: 0.9;
   font-weight: 400;
 }
+/* Fix for centered text - Add at bottom of Landing.css */
+.landing-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+}
+
+.landing-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.landing-title {
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}
