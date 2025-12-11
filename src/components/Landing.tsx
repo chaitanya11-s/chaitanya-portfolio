@@ -19,10 +19,10 @@ const Landing = ({ children }: PropsWithChildren) => {
               {lastName && <span>{lastName.toUpperCase()}</span>}
             </h1>
           </div>
-          <div className="landing-info">
-            <h2 className="landing-title">
+          <div className="landing-info" style={{ textAlign: 'center', width: '100%' }}>
+            <h2 className="landing-title" style={{ textAlign: 'center', margin: '0 auto' }}>
               <span className="aspiring-text">Aspiring</span>
-              <br />
+              <br/>
               Program Manager
             </h2>
           </div>
