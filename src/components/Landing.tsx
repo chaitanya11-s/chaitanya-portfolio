@@ -23,7 +23,7 @@ const Landing = ({ children }: PropsWithChildren) => {
             <h3>Aspiring</h3> {/* This stays as before */}
             <h2 className="landing-info-h2">
               <div className="white-title"> {/* Added class here */}
-                Technical<br /> Program Manager
+                Technical<br /> Product Manager
               </div>
             </h2>
           </div>
